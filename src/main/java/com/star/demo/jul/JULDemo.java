@@ -1,4 +1,4 @@
-package com.star.demo;
+package com.star.demo.jul;
 
 import org.junit.Test;
 
@@ -7,7 +7,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class JULDemo
 {
     /**
      * Rigorous Test :-)
