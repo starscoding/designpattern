@@ -1,20 +1,13 @@
 package com.star.demo.jul;
 
-import org.junit.Test;
-
-import static org.junit.Assert.assertTrue;
+import java.util.logging.Logger;
 
 /**
- * Unit test for simple App.
+ * Hello world!
  */
-public class JULDemo
-{
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
+public class JULDemo {
+    private static Logger logger = Logger.getLogger("com.star.demon.App");
+    public static void main(String[] args) {
+        logger.info("Hello world!");
     }
 }
