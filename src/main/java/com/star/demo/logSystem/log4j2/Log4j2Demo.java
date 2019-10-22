@@ -1,4 +1,4 @@
-package com.star.demo.log4j2;
+package com.star.demo.logSystem.log4j2;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

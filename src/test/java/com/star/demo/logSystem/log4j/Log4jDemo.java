@@ -1,4 +1,4 @@
-package com.star.demo.log4j;
+package com.star.demo.logSystem.log4j;
 
 import org.apache.log4j.Logger;
 
@@ -12,6 +12,5 @@ public class Log4jDemo {
     public static void main(String[] args) {
 
         logger.info("Hello log4j!");
-        logger.info("你好，log4j!");
     }
 }

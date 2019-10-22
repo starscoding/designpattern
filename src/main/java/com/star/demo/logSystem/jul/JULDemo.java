@@ -1,4 +1,4 @@
-package com.star.demo.jul;
+package com.star.demo.logSystem.jul;
 
 import java.util.logging.Logger;
 
